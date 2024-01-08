@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lucius
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning A bunch of stuff that related to analyst and the domain knowledges
+- 👀 I’m interested in Data Analyst, Analytics Engineering, Data Engineering, Data Strategy
 - 📫 How to reach me xiaoliulucius@gmail.com
 
 <!---
